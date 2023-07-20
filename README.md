@@ -4,7 +4,7 @@ Mental Health Guide Website: Empowering Mental Wellness Everywhere
 
 Welcome to our Mental Health Guide, an e-platform dedicated to democratizing access to mental health treatment alternatives and early detection of mental illnesses. Our mission is to reach even rural and remote areas, reducing costs, and providing greater flexibility in addressing mental health concerns.
 
-Features and Functionality:
+**Features and Functionality:**
 
 Questionnaire for Mental Health Analysis: Our website offers a comprehensive mental health questionnaire designed by experts in the field. Users can answer multiple-choice questions to assess their mental well-being.
 
@@ -20,5 +20,5 @@ Direct Appointment Booking: To facilitate quick access to professional support, 
 
 User-Friendly Interface: Our website boasts an intuitive and user-friendly interface, making it easy for users to navigate through the questionnaire, analysis, and resource pages seamlessly.
 
-Our Vision:
+**Our Vision:**
 We envision a world where mental health is treated with the same care and priority as physical health. Our Mental Health Guide aims to bridge the gap between mental health services and those in need, regardless of their geographical location or financial situation.
